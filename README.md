@@ -1,6 +1,6 @@
 # Scientific_Paper_Presentation_TDD
 
-#Directory
+## Directory
 
 src -> contains all source code
 
@@ -8,10 +8,10 @@ test -> contains all testing code
 
 package.json -> contains all necessary library needed for runnig test
 
-#About
+## About
 Description: This project is created to demonstrate Test-Driven Development for the course Scientific Paper & Presentation
 
-#Procedure
+## Procedure
 1. Place the project any directory
 2. Run the project
     1. go to root directory of root folder
