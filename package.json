@@ -1,0 +1,19 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "Implementation of TDD",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
