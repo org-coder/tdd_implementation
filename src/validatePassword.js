@@ -10,6 +10,7 @@
  * validatePassword("Scientific")
  * // => true
  */
+ 
 const validatePassword = (password) => {
 	if(password.length >= 5 && password.length <=10)
         return true;
